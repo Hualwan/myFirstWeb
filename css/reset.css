@@ -1,0 +1,10 @@
+*{margin:0;padding: 0;}
+body{font:12px/1.5 tahoma,arial,\5b8b\4f53;}/*宋体的unicode编码格式*/
+ul{list-style: none;}
+a{text-decoration: none;}
+a:hover{text-decoration: underline;}
+sup{vertical-align:text-top;}
+sub{vertical-align:text-bottom;}
+table{border-collapse: collapse;border-spacing:0;}
+.clear{clear:both;float:none;height: 0;overflow: hidden;}
+html .hide{display: none;}
